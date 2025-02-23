@@ -1,6 +1,6 @@
 <?php
 $base_dir = __DIR__ . '/Base';
-$static_url = '/Furnixar/assets'; // Ensure this is the correct path
+$static_url = '/Furnixar/assets'; // Ensure this's the correct path
 
 // Include the common navlink content
 ob_start();
